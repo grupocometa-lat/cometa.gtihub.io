@@ -1,1 +1,1 @@
-# cometa.gtihub.io
+# cometa.github.io
